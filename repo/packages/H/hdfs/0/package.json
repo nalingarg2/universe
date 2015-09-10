@@ -1,7 +1,7 @@
 {
   "name": "hdfs",
   "version": "0.1.3",
-  "scm": "https://github.com/mesosphere/hdfs.git",
+  "scm": "https://github.com/nalingarg2/hdfs.git",
   "maintainer": "support@mesosphere.io",
   "description": "Hadoop Distributed File System (HDFS), Highly Available",
   "framework": true,
